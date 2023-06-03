@@ -1,0 +1,18 @@
+.img_portada{
+  background-image: url(https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d3/latest/20190408034831/Mewtwo.png/200px-Mewtwo.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 15em;
+  width: 15em;
+}
+
+.info{
+  align-items: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.buscador{
+  width: 20em;
+}

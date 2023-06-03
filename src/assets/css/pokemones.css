@@ -1,0 +1,18 @@
+.info{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding-top: 1em;
+}
+
+.pokedex{
+  display: flex;
+  flex-direction: row;
+  padding-top: 1em;
+}
+
+.card-body{
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,32 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.navbar {
+  background: gray;
+  padding: 20px;
+  color: white;
+  display: block;
+  justify-content: end; 
+  text-align: end;  
+}
+
+.logo{
+  background-image:url(../iconos/pokegps.png);
+  height: 3em;
+  width: 3em;
+  background-position: center;
+  background-size: contain;
+}
+
+.sections{
+  color: aliceblue;  
+}
+
+.active{
+  color: red;
+  text-decoration: none;
+}
+
+

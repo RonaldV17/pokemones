@@ -1,0 +1,12 @@
+.img2_portada{
+  background-image: url(../imagenes/descarga.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 15em;
+  height: 20em;
+}
+
+.info{
+  align-items: center;
+  text-align: center;
+}
